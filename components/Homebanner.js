@@ -15,7 +15,7 @@ export default function Homebanner(){
             <div className="banner absolute top-[25%] left-[50%]">
                 <motion.h1 variants={textVariant(1)} className="text-4xl font-bold py-3 text-[#40E0D0] lg:text-6xl">Let's Take Journey</motion.h1>
             </div>
-            <div className="bannerdescription  w-[100vw] text-white absolute top-[90%]">
+            <div className="bannerdescription  w-[100vw] text-white absolute top-[80%]">
                 <div className="max-w-[600px] mx-auto overflow-hidden">
                     <motion.h1 variants={textVariant(1.2)} className="text-2xl font-bold py-4 lg:text-4xl">we provide best guidance</motion.h1>
                     <motion.p variants={textVariant(1.4)} className="text-sm">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem</motion.p>
