@@ -1,4 +1,4 @@
-<h1>Fit-Grow</h1>
+<h1>Journey</h1>
 <p><a href="https://journey-tau-two.vercel.app/">Journey</a> is a travel landing-page frontend project.</p>
 <p>If you like, consider giving the project a star.</p>
 <br/>
